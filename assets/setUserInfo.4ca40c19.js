@@ -1,0 +1,1 @@
+import{be as e}from"./index.07fc3cde.js";const s=e("userInfo",{state:()=>({setEmpCd:"",setEmpNm:"",setEmpNmx:"",setDepgNm:"",setDepgCd:"",setDeptCd:"",setDeptNm:"",setTitlCd:"",setTitlNm:"",setPstnCd:"",setPstnNm:""}),getters:{},actions:{}});export{s as u};
